@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+matplotlib
+yfinance
+requests
+streamlit-lottie
+streamlit
+yfinance
+pandas
+numpy
+groq
+python-dotenv
